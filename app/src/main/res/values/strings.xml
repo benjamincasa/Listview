@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Listview</string>
+    <string name="valorInicial">Valor del item </string>
+    <string name="titullo_de_ventana">Lugares</string>
+</resources>
